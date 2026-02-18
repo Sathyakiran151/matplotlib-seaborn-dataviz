@@ -5,6 +5,8 @@ class Animal():
     def __init__(self,name,age):
         self.name=name
         self.age=age
+    def show(self):
+      print(f"Name : {self.name},Age : {self.age}")
     def sound(self):
         print("animal makes the sound")
 class Dog(Animal):
@@ -19,8 +21,11 @@ class Cow(Animal):
 dog = Dog("tyson",3)
 cat= Cat("tommy",4)
 cow = Cow("chinni",5)
+dog.show()
 dog.sound()
+cat.show()
 cat.sound()
+cow.show()
 cow.sound()
         
         
