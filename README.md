@@ -1,55 +1,55 @@
-📊 # Matplotlib & Seaborn Data Visualization Projects
+📊 Matplotlib & Seaborn Data Visualization Projects
 
 This repository contains a collection of Python-based data visualization projects built using Matplotlib and Seaborn.
 The goal of this repository is to demonstrate how different datasets can be analyzed and visualized to extract meaningful insights.
 
 These projects cover real-world datasets such as sales data, COVID cases, population growth, employee salary analysis, student performance, and more.
 
-🚀 ##Project Overview
+🚀 Project Overview
 
 Data visualization is an essential part of data analysis and machine learning workflows.
 This repository demonstrates how to:
 
-- Analyze datasets using Python
+Analyze datasets using Python
 
-- Generate meaningful visual insights
+Generate meaningful visual insights
 
-- Build clear and interpretable charts
+Build clear and interpretable charts
 
-- Compare relationships between different variables
+Compare relationships between different variables
 
 The visualizations include:
 
-- Line Charts
+Line Charts
 
-- Bar Charts
+Bar Charts
 
-- Scatter Plots
+Scatter Plots
 
-- Histograms
+Histograms
 
-- Box Plots
+Box Plots
 
-- Heatmaps
+Heatmaps
 
-- Comparative Graphs
+Comparative Graphs
 
 🛠️ Technologies Used
 
 The projects in this repository are built using the following technologies:
 
-- Python
+Python
 
-- Matplotlib
+Matplotlib
 
-- Seaborn
+Seaborn
 
-- Pandas
+Pandas
 
-- NumPy
+NumPy
 
-📂## Project Structure
-##matplotlib-seaborn-dataviz
+📂 Project Structure
+matplotlib-seaborn-dataviz
 │
 ├── COVID_Cases_Visu.py
 ├── Car_Production_and_Sales_Visualization_System.py
