@@ -1,14 +1,14 @@
-##📊 Matplotlib & Seaborn Data Visualization Projects
+## 📊 Matplotlib & Seaborn Data Visualization Projects
 
 This repository contains a collection of Python-based data visualization projects built using Matplotlib and Seaborn.
 The goal of this repository is to demonstrate how different datasets can be analyzed and visualized to extract meaningful insights.
 
 These projects cover real-world datasets such as sales data, COVID cases, population growth, employee salary analysis, student performance, and more.
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 Data visualization is an essential part of data analysis and machine learning workflows.
-#This repository demonstrates how to:
+# This repository demonstrates how to:
 
 - Analyze datasets using Python
 
@@ -18,7 +18,7 @@ Data visualization is an essential part of data analysis and machine learning wo
 
 - Compare relationships between different variables
 
-#The visualizations include:
+# The visualizations include:
 
 - Line Charts
 
@@ -34,9 +34,9 @@ Data visualization is an essential part of data analysis and machine learning wo
 
 - Comparative Graphs
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-#The projects in this repository are built using the following technologies:
+# The projects in this repository are built using the following technologies:
 
 - Python
 
@@ -72,71 +72,71 @@ matplotlib-seaborn-dataviz
 ├── restaurant_tips_analysis.py
 └── titanic_survival_analysis.py
 ```
-#📊 Included Visualization Projects
-#1️⃣ COVID Cases Visualization
+# 📊 Included Visualization Projects
+# 1️⃣ COVID Cases Visualization
 
 - Analyzes COVID case trends and visualizes infection patterns using charts.
 
-#2️⃣ Car Production & Sales Visualization
+# 2️⃣ Car Production & Sales Visualization
 
 - Explores production trends and sales comparison of cars using graphical analysis.
 
-#3️⃣ Daily Steps Tracker
+# 3️⃣ Daily Steps Tracker
 
 - Visualizes daily step counts and fitness activity patterns.
 
-#4️⃣ Employee Salary Analysis
+# 4️⃣ Employee Salary Analysis
 
 - Analyzes employee salary distribution and relationships between experience and salary.
 
-#5️⃣ Feature Relationship Analysis
+# 5️⃣ Feature Relationship Analysis
 
 - Explores relationships between dataset variables using correlation plots and scatter plots.
 
-#6️⃣ Height vs Weight Analysis
+# 6️⃣ Height vs Weight Analysis
 
 - Demonstrates how height and weight are correlated using scatter visualizations.
 
-#7️⃣ Holi Sales Analysis
+# 7️⃣ Holi Sales Analysis
 
 - Analyzes festival-based sales trends and color product demand during Holi.
 
-#8️⃣ Mobile Phone Price Analysis
+# 8️⃣ Mobile Phone Price Analysis
 
 - Visualizes smartphone price distributions and feature comparisons.
 
-#9️⃣ Population Growth Comparison
+# 9️⃣ Population Growth Comparison
 
 - Shows population growth patterns across different years.
 
-#🔟 Salary Analysis by Experience
+# 🔟 Salary Analysis by Experience
 
 - Analyzes how employee experience impacts salary levels.
 
-#1️⃣1️⃣ Simple Expense Chart
+# 1️⃣1️⃣ Simple Expense Chart
 
 - Visualizes personal or business expenses using simple charts.
 
-#1️⃣2️⃣ Student Academic Dashboard
+# 1️⃣2️⃣ Student Academic Dashboard
 
 - Displays student academic performance through charts and metrics.
 
-#1️⃣3️⃣ Student Performance Analytics Dashboard
+# 1️⃣3️⃣ Student Performance Analytics Dashboard
 
 - Analyzes student performance patterns across subjects.
 
-#1️⃣4️⃣ Weekly Temperature Analysis
+# 1️⃣4️⃣ Weekly Temperature Analysis
 
 - Visualizes temperature patterns across days of the week.
 
-#1️⃣5️⃣ Wine Quantity Analysis
+# 1️⃣5️⃣ Wine Quantity Analysis
 
 - Analyzes wine dataset attributes and relationships.
 
-#1️⃣6️⃣ Restaurant Tips Analysis
+# 1️⃣6️⃣ Restaurant Tips Analysis
 
 - Explores restaurant tipping patterns using data visualization.
 
-#1️⃣7️⃣ Titanic Survival Analysis
+# 1️⃣7️⃣ Titanic Survival Analysis
 
 - Visualizes survival patterns of passengers from the Titanic dataset.
